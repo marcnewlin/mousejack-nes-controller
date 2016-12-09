@@ -8,7 +8,7 @@ This project is the love child of Burning Man and my wireless mouse/keyboard res
 
 ## History
 
-In preparation for Burning Man in 2015, I built a big LED covered top hat so I could efficient blind my campmates. I needed a way to provide input to the hat, and the obvious thing to do was make a wireless NES controller (duh).
+In preparation for Burning Man in 2015, I built a big LED covered top hat so I could efficiently blind my campmates. I needed a way to provide input to the hat, and the obvious thing to do was make a wireless NES controller (duh).
 
 Around the same time, I was starting to investigate Logitech wireless mice, which use the same type of radio transceiver as my NES controller. So just before DEF CON 23, I hacked together some code to hijack other peoples' Logitech wireless mice, and spent the week trolling people at BSidesLV (sorry CTFers) and DEF CON. This proved to be hilarious, and the IoT Village was even using a Logitech mouse for their presentation clicker.
 
