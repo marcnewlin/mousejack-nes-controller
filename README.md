@@ -55,9 +55,9 @@ Usage is pretty straight forward:
 ## Related Materials
 
 - [Blog - Burning Man LED Top Hat](http://www.marcnewlin.me/2015/09/lightwad-top-hat.html)
-- [Slides - Hacking Wireless Mice with an NES Controller @ ToorCon 17](marc-newlin-toorcon-17-slides.pdf)
-- [Slides - MouseJack: Inecting Keystrokes into Wireless Mice @ DEF CON 24](DEFCON-24-Marc-Newlin-MouseJack-Injecting-Keystrokes-Into-Wireless-Mice.slides.pdf)
-- [Whitepaper - MouseJack: Inecting Keystrokes into Wireless Mice @ DEF CON 24](DEFCON-24-Marc-Newlin-MouseJack-Injecting-Keystrokes-Into-Wireless-Mice.whitepaper.pdf)
+- [Slides - Hacking Wireless Mice with an NES Controller @ ToorCon 17](docs/marc-newlin-toorcon-17-slides.pdf)
+- [Slides - MouseJack: Inecting Keystrokes into Wireless Mice @ DEF CON 24](docs/DEFCON-24-Marc-Newlin-MouseJack-Injecting-Keystrokes-Into-Wireless-Mice.slides.pdf)
+- [Whitepaper - MouseJack: Inecting Keystrokes into Wireless Mice @ DEF CON 24](docs/DEFCON-24-Marc-Newlin-MouseJack-Injecting-Keystrokes-Into-Wireless-Mice.whitepaper.pdf)
 - [Video - MouseJack: Inecting Keystrokes into Wireless Mice @ DEF CON 24](https://www.youtube.com/watch?v=00A36VABIA4)
 - [Video - Hak5 Interview @ DEF CON 24](https://www.hak5.org/episodes/season-20/hak5-2026-def-con-24-warwalking-at-def-con-semaphor-mousejack-and-keysniffer)
 - [Info - MouseJack/Bastille](http://www.bastille.net/research/vulnerabilities/mousejack/)
