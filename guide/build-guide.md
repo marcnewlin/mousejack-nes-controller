@@ -85,23 +85,23 @@ Using a soldering iron and pliers (or other such magic), remove the components f
 
 ![Part 2, Step 1a](part-2-step-1a.jpg?raw=true)
 
-![Part 3, Step 1b](part-2-step-1b.jpg?raw=true)
+![Part 2, Step 1b](part-2-step-1b.jpg?raw=true)
 
 #### After
 
 ![Part 2, Step 1c](part-2-step-1c.jpg?raw=true)
 
-![Part 3, Step 1d](part-2-step-1d.jpg?raw=true)
+![Part 2, Step 1d](part-2-step-1d.jpg?raw=true)
 
 ### 2. Cut off the unused portion of the PCB with a Dremel
 
 ![Part 2, Step 2a](part-2-step-2a.jpg?raw=true)
 
-![Part 3, Step 2b](part-2-step-2b.jpg?raw=true)
+![Part 2, Step 2b](part-2-step-2b.jpg?raw=true)
 
 ### 3. Cut all traces going to the USB controller chip
 
-![Part 2, Step 3](usb-traces-cut.jpg?raw=true)
+![Part 2, Step 3](part-2-step-3.jpg?raw=true)
 
 ### 4. Cut the trace between d-pad up and down
 
