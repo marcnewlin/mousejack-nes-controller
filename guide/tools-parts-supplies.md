@@ -20,7 +20,7 @@
 HINT: You should get at least 2x NES controllers, because they're cheap, and you're probably going to screw up the first one.
 
 - USB NES Controller
-- Teensy 3.1 or 3.2
+- Teensy 3.1 or 3.2 (without pin headers)
 - nRF24L01+ breakout board (5x)
 - A few resistors for a voltage divider
 - Toggle switch
