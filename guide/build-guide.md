@@ -188,7 +188,7 @@ For the most part, the specific I/O pin mapping is flexible, as long as you reme
 
 ### 1. Radios, OLED, and microSD
 
-The radaios, OLED, and microSD reader all communicate over SPI. This means that you will have unique CS and CE wires for each component, and then shared VDD/GND/MOSI/MISO/SCK.
+The radios, OLED, and microSD reader all communicate over SPI. This means that you will have unique CS and CE wires for each component, and then shared VDD/GND/MOSI/MISO/SCK.
 
 Each radio and the microSD reader needs to have the following pins wired up:
 
