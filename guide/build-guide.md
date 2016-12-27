@@ -46,7 +46,6 @@ The plastic screw posts strip extremely easily, so it is necessary to replace th
 </span>
 
 - Use superglue to attach the metal screw terminals.
-- Metal screw terminals are 3.5mm and 5.5mm tall
 
 ![Part 1, Step 3a](part-1-step-3a.jpg?raw=true)
 

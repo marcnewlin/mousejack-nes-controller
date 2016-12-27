@@ -19,16 +19,16 @@
 
 HINT: You should get at least 2x NES controllers, because they're cheap, and you're probably going to screw up the first one.
 
-- USB NES Controller
+- [USB NES Controller](https://www.amazon.com/Classic-USB-NES-Controller-Mac-Compatible/dp/B002YVD3KM/)
 - Teensy 3.1 or 3.2 (without pin headers)
 - nRF24L01+ breakout board (5x)
 - A few resistors for a voltage divider
 - Toggle switch
 - microSD reader (holder)
 - microSD card
-- 128x64 OLED display
-- 500mAh 3.7V LiPo battery
-- LiPo charge controller
+- [128x64 OLED display](https://www.adafruit.com/product/938)
+- [500mAh 3.7V LiPo battery](https://www.amazon.com/uxcell-Charging-Lithium-Connector-Aircraft/dp/B01M01TG4G/)
+- [LiPo charge controller](https://www.amazon.com/Lithium-Battery-Charging-Charger-Protection/dp/B00QGVP944/)
 - WS2812B LED
 - M2.5 6mm screw (x1)
 - M2.5 8mm screws (x5)
